@@ -13,7 +13,7 @@ The dataset used for training and testing the model has been obtained from Kaggl
 
 ## Model Building
 
-The model was built after different machine learning steps,starting from data cleaning and preprocessing,feature selection,GridSearch and crossvalidation. 
+The model was built after using different machine learning steps,starting from data cleaning and preprocessing,feature selection,GridSearch and crossvalidation. 
 Based on GridsearchCV results, a final model was selected as it gave the most efficient results.
 
 
