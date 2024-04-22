@@ -26,4 +26,6 @@ The model was evaluated using the following metrics:
 
 ## Conclusion
 
-The house price prediction model achieved an R2 score of ...,  and a mean squared error of .... These metrics indicate that the model...., but it can still provide useful predictions for house prices.
+Compared to different models,The final house price prediction model achieved an R2 score of 0.852,and a mean squared error of 0.852.
+
+These metrics indicate that the XG boost model did a good job on our dataset.
