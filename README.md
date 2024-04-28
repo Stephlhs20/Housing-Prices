@@ -26,6 +26,6 @@ The model was evaluated using the following metrics:
 
 ## Conclusion
 
-Compared to different models,The final house price prediction model achieved an R2 score of 0.852,and a mean squared error of 0.852.
+Compared to different models,The final house price prediction model achieved an R2 score of 0.852,and a mean squared error of 0.02.
 
 These metrics indicate that the XG boost model did a good job on our dataset.
